@@ -15,9 +15,9 @@
 - How to use:
   
 ## Description:
-This component can help your Single Video more smoothlty and naturally loop playback all the time.
-<br>It's so handy and pretty small playback function, also I will make use of redesigning more fun plugin.
+This component can help your Single Video more smoothly and naturally loop playback all the time.
 <br>In some extend, the function of loop playback I inspired from Adobe Premimere.
+<br>It's so handy and pretty small playback function, also I will make use of redesigning more fun plugin.
 
 ## Functionality
 - **File**
