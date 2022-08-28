@@ -13,6 +13,7 @@
   15/08/2022
   
 - How to use:
+  https://youtu.be/TmVDVkK3Zbk
   
 ## Description:
 This component can help your Single Video more smoothly and naturally loop playback all the time.
