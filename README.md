@@ -13,6 +13,7 @@
   15/08/2022
   
 - How to use:
+  https://youtu.be/TmVDVkK3Zbk
   
 ## Description:
 This component can help your Single Video more smoothly and naturally loop playback all the time.
@@ -34,6 +35,7 @@ This component can help your Single Video more smoothly and naturally loop playb
 
 ## Contact:
 
+The component still is public beta so it limit maximun resolution of width and height is 1280 pixel respectively,
 If you have any feedback contact me please.
 <br>email:kty627341343@gmail.com
 <br>ins:[wingtoKwong](https://www.instagram.com/wingtokwong/)
