@@ -31,7 +31,8 @@ This component can help your Single Video more smoothly and naturally loop playb
 
 
 ## Issue Known:
-- Video can't swithch if the value of "Duration" over the sum of video time.
+- Video can't swithch if the value of "Duration" over the sum of video time, the Duration value should be caculated and fixed into maximun range in parameter COMP according to sum of video per.
+
 
 ## Contact:
 
