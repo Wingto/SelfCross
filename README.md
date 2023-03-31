@@ -1,6 +1,6 @@
 # SelfCross
 
-- Version     : V1.1
+- Version     : V2
 - Class       : Playback series
 - Requirement :
   - window10
@@ -10,15 +10,17 @@
   Wingto
 
 - Date:
-  15/08/2022
+  30/03/2023
   
 - How to use:
-  https://youtu.be/TmVDVkK3Zbk
+  （coming soon）
   
 ## Description:
-This component can help your Single Video more smoothly and naturally loop playback all the time.
-<br>In some extend, the function of loop playback I inspired from Adobe Premimere.
-<br>It's so handy and pretty small playback function, also I will make use of redesigning more fun plugin.
+  <br>Let's make media sources switch more natural and stable! 
+
+  <br>Here I developed a software which support different media sources, including image and video. Its main features is that switch more natural between each other via fade in and fade out, in order to make feel good user experience. Additionally when it come to detect error source, the software can skip them and remind user which one got error, enhancing the stable for performance.
+  <br>The software apply to the large screen and long-term performance or advertisement
+
 
 ## Functionality
 - **File**
@@ -38,6 +40,6 @@ This component can help your Single Video more smoothly and naturally loop playb
 
 The component still is public beta so it limit maximun resolution of width and height is 1280 pixel respectively,
 If you have any feedback contact me please.
-<br>email:kty627341343@gmail.com
+<br>email:627341343@qq.com
 <br>ins:[wingtoKwong](https://www.instagram.com/wingtokwong/)
 
